@@ -9,6 +9,12 @@ Currently, two official plugins are available:
 
 ## Quick Start
 
+Prepare:
+````shell
+nvm use v20.19.0
+yarn
+````
+
 For development run:
 
 ````bash
