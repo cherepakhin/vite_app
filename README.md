@@ -9,6 +9,16 @@ Currently, two official plugins are available:
 
 ## Quick Start
 
+For development run:
+
+````bash
+yarn dev
+````
+
+open [http://localhost:5173/](http://localhost:5173/)
+
+for build run:
+
 ````bash
 yarn build
 ````
