@@ -17,6 +17,8 @@ Copy content from `dist` folder to apache2 server to '/var/main/vite_app'.
 
 Result: [https://v.perm.ru/vite_app/](https://v.perm.ru/vite_app/)
 
+![doc/screen1.png](doc/screen1.png)
+
 ## React Compiler
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
